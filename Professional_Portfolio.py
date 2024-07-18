@@ -5,7 +5,7 @@ col1, col2 = st.columns(2)                                                      
 
 with col1:                                                                                                              # Adding content to the first column
     st.subheader("Hi :wave:")                                                                                           # Adding a subheader
-    st.title("The Professional     Portfolio")                                                                          # Adding a title
+    st.title("The Professional Portfolio")                                                                              # Adding a title
 
 with col2:                                                                                                              # Adding content to the second column
     st.image("assets/moi-7.png")                                                                                        # Adding an image
