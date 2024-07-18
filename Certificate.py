@@ -21,7 +21,7 @@ with col1:                                                                      
 
 with col2:                                                                                                              # Adding content to the second column
     st.image("certificate/Kaggle_C-V.png")                                                                              # Adding an image
-    st.image("certificate/Kaggle_intro_ML.png")
+    st.image("certificate/Kaggle_Intro_ML.png")
     st.image("certificate/Kaggle_Intermediate_ML.png")
 
 with col3:                                                                                                              # Adding content to the third column
