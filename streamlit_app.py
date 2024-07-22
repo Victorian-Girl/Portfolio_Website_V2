@@ -44,14 +44,21 @@ about_page = st.Page(
 pg = st.navigation(
     {
         "Info": [about_page],
-        "Projects": [project_1_page, project_2_page, project_3_page],
+        "Projects": [project_1_page, project_2_page],
+        "Certificates": [project_3_page],
     }
 )
 
 
 # --- SHARED ON ALL PAGES ---
-st.logo("assets/logo4.jpg")                                                                                            # 24 height, max width = 240 px or 10:1 ratio
-st.sidebar.text("Made with ❤️ by Mélissa")
+st.sidebar.write("Professional Website: https://melissa.christiaenssens.svija.site/")
+st.sidebar.write("Artis Website: https://mcrist.artiste.svija.site/")
+st.sidebar.write("LinkedIn: https://www.linkedin.com/in/melissa-ch")
+st.sidebar.write("GitHub:  https://github.com/Victorian-Girl")
+st.sidebar.write("StackOverFlow: https://stackoverflow.com/users/15284428/m%c3%a9lissa-ch")
+# Adding a text
+st.logo("assets/logo4.jpg")                                                                                             # 24 height, max width = 240 px or 10:1 ratio
+st.sidebar.text("Made with l'❤️ by Mélissa")
 
 
 # --- RUN NAVIGATION ---

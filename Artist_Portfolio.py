@@ -130,7 +130,9 @@ with col1:                                                                      
 
 with col2:                                                                                                              # Adding content to the second column
     st.image("images/g3.jpg")                                                                                           # Adding an image
+    st.write(" ")
     st.image("images/g4.jpg")
+    st.write(" ")
     st.image("images/g9.jpg")
 
 with col3:                                                                                                              # Adding content to the third column

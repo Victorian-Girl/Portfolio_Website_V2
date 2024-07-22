@@ -128,16 +128,21 @@ col1, col2, col3 = st.columns(3)                                                
 
 with col1:                                                                                                              # Adding content to the first column
     st.image("images/p1.png")                                                                                           # Adding an image
+    st.write(" ")
     st.image("images/p2.3.png")
+    st.write(" ")
     st.image("images/p4.png")
 
 with col2:                                                                                                              # Adding content to the second column
     st.image("images/p5.1.png")                                                                                         # Adding an image
-    st.image("images/p5.2.png")
+    st.image("images/p5.3.png")
 
 with col3:                                                                                                              # Adding content to the third column
     st.image("images/p6.png")                                                                                           # Adding an image
+    st.subheader(" ")
     st.image("images/p3.png")
+    st.subheader(" ")
+    st.image("images/p5.2.png")
 
 
 st.subheader(" ")                                                                                                       # Adding a subheader
