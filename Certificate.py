@@ -21,11 +21,16 @@ with col1:                                                                      
 
 with col2:                                                                                                              # Adding content to the second column
     st.image("certificate/Kaggle_C-V.png")                                                                              # Adding an image
+    st.write(" ")
     st.image("certificate/Kaggle_Intro_ML.png")
+    st.write(" ")
     st.image("certificate/Kaggle_Intermediate_ML.png")
 
 with col3:                                                                                                              # Adding content to the third column
+    st.write(" ")
+    st.write(" ")
     st.image("certificate/Udemy_dev_Python.jpg")                                                                        # Adding an image
+    st.header(" ")
     st.image("certificate/Udemy_IA_2024.jpg")
 
 st.subheader(" ")                                                                                                       # Adding a subheader
