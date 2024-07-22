@@ -60,7 +60,7 @@ persona = """
         each new canvas being an invitation to explore, innovate and share these emotions with the viewer.
 
         The opening of her artistic YouTube channel will take place in the near future.
-        But is YouTube chanel for programming is there: https://www.youtube.com/@M%C3%A9lissaCh-i6p
+        Is YouTube chanel for programming is there: https://www.youtube.com/@M%C3%A9lissaCh-i6p
 
         Melissa is also a self-taught person, she devotes several hours per week to her learning,
         knowledge, problem solving and trying new techniques.
