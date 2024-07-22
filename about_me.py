@@ -86,7 +86,9 @@ persona = """
 
 
         Mélissa's Artist Email: mcrist.artiste@gmail.com
+        Mélissa's Aritst Website: https://mcrist.artiste.svija.site/
         Mélissa's Professional Email: metalomax@gmail.com
+        Mélissa's Professional Website: https://melissa.christiaenssens.svija.site/
         Mélissa's Professional Linkdin: https://www.linkedin.com/in/melissa-ch
         Mélissa's Professional Github :https://github.com/Victorian-Girl
         Mélissa's Professional Stackoverflow: https://stackoverflow.com/users/15284428/m%c3%a9lissa-ch
