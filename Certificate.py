@@ -17,21 +17,21 @@ col1, col2, col3 = st.columns(3)                                                
 with col1:                                                                                                              # Adding content to the first column
     st.image("certificate/CV_Game.JPG")                                                                                 # Adding an image
     st.image("certificate/CV_Web.jpg")
+    st.image("certificate/CertificateMelissa.jpg")
+
+with col2:                                                                                                              # Adding content to the second column                                                                                                      # Adding a header
+    st.image("certificate/Udemy_dev_Python.jpg")  # Adding an image
+    st.image("certificate/Udemy_IA_2024.jpg")
+    st.markdown(" ")
     st.image("certificate/Kaggle_Python.png")
 
-with col2:                                                                                                              # Adding content to the second column
-    st.image("certificate/Kaggle_C-V.png")                                                                              # Adding an image
-    st.write(" ")
-    st.image("certificate/Kaggle_Intro_ML.png")
-    st.write(" ")
-    st.image("certificate/Kaggle_Intermediate_ML.png")
-
 with col3:                                                                                                              # Adding content to the third column
-    st.write(" ")
-    st.write(" ")
-    st.image("certificate/Udemy_dev_Python.jpg")                                                                        # Adding an image
-    st.header(" ")
-    st.image("certificate/Udemy_IA_2024.jpg")
+    st.markdown(" ")
+    st.image("certificate/Kaggle_C-V.png")                                                                              # Adding an image
+    st.markdown(" ")
+    st.image("certificate/Kaggle_Intro_ML.png")
+    st.markdown(" ")
+    st.image("certificate/Kaggle_Intermediate_ML.png")
 
 st.subheader(" ")                                                                                                       # Adding a subheader
 st.write("CONTACT")                                                                                                     # Adding a text
