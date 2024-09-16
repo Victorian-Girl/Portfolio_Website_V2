@@ -96,7 +96,7 @@ persona = """
 
 st.title("Mélissa's AI Bot")                                                                                            # Adding a title
 
-user_question = st.text_input("Ask anything about me, in you own language")                                             # Adding a text input
+user_question = st.text_input("Ask anything about me, in your own language")                                             # Adding a text input
 if st.button("ASK", use_container_width=400):                                                                           # Adding a button
     prompt = persona + "Here is the question that the user asked: " + user_question                                     # Creating the prompt
     response = model.generate_content(prompt)                                                                           # Generating the response
